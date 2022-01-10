@@ -14,4 +14,28 @@
                 10: 'balqef'
             }
 """
+import random
 
+def make_random_string():
+    str = ""
+    for i in range(0, random.randrange(3,6)):
+        str += random.choice(['a', 'x', 'c', 'm', 'i','d','y','u','e'])
+    
+    return str
+            
+def build_dic():
+    dic = {}
+    for i in random.sample(range(0,10),4):
+        dic[i] = make_random_string()
+    return dic
+
+def write_in_jason(parm):
+    dic = {1: 'hi', 2:'hello'}
+    with open(parm+".json", 'a+') as f:
+        f.writelines(str(build_dic())+"\n")
+        f.close()
+
+
+
+write_in_jason("file")
+    
