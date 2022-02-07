@@ -17,8 +17,8 @@ generative statistical model as we will further discuss
 
 ## Screenshots
 
-![App Screenshot](Random Projects\The EM Algorithm for Gaussian Mixtures\1.PNG)
+![App Screenshot](https://github.com/zubairfarahi/Data-Science--Machine-Learning-/blob/main/Random%20Projects/The%20EM%20Algorithm%20for%20Gaussian%20Mixtures/1.PNG)
 
-![App Screenshot](Random Projects\The EM Algorithm for Gaussian Mixtures\2.PNG)
+![App Screenshot](https://github.com/zubairfarahi/Data-Science--Machine-Learning-/blob/main/Random%20Projects/The%20EM%20Algorithm%20for%20Gaussian%20Mixtures/2.PNG)
 
 
